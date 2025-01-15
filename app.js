@@ -5,3 +5,7 @@ if(name == 'Igor' && age ==123){
 }else{
     alert('No good')
 }
+
+
+
+console.log('Тоже новый коммит ')
